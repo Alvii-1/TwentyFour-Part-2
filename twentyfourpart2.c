@@ -1,6 +1,5 @@
 // 
 // Zohaib Alvi
-// Starter code provided by Professor Kidane CS 211 SP23
 // Program 3: TwentyFour Part 2
 //
 /* Program 3 is a continuation of Program 1, the original TwentyFour game which used arrays as the primary
